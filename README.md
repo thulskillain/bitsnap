@@ -1,2 +1,2 @@
 # bitsnap
-The greatest bad-ass CSS-Framework
+The greatest bad-ass CSS-Framework, really.
